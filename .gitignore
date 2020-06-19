@@ -1,0 +1,12 @@
+#### Mac OS ####
+.DS_Store
+
+#### Executable Files ####
+*.out
+*.exe
+
+#### ZIP Files ####
+*.zip
+
+#### Microsoft Office Word ####
+*.docx
